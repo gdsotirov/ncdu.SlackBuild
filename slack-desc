@@ -1,0 +1,11 @@
+ncdu: NCurses Disk Usage (A console disk usage analyser)
+ncdu:
+ncdu: A disk usage analyzer with an ncurses interface, aimed to be run on a
+ncdu: remote server where you don't have an entire gaphical setup, but have
+ncdu: to do with a simple SSH connection. Ncdu aims to be fast, simple and
+ncdu: easy to use, and should be able to run in any minimal POSIX-like
+ncdu: environment with ncurses installed.
+ncdu:
+ncdu:
+ncdu:
+ncdu: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
