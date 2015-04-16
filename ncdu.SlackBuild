@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: ncdu.SlackBuild,v 1.3 2015/04/16 20:50:34 gsotirov Exp $
+# $Id: ncdu.SlackBuild,v 1.4 2015/04/16 20:57:03 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=ncdu
-VERSION=1.10
+VERSION=1.11
 ARCH=${ARCH:-i486}
 BUILD=${BUILD:-1}
 
