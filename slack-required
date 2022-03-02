@@ -1,2 +1,2 @@
-glibc-solibs >= 2.23
-ncurses >= 5.9
+aaa_glibc-solibs >= 2.33
+ncurses >= 6.3
