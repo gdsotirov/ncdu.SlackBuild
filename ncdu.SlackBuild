@@ -23,7 +23,7 @@
 . ../../slack-package.conf
 
 NAME=ncdu
-VERSION=1.16
+VERSION=1.17
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
